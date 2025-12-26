@@ -127,3 +127,17 @@ body{
   .cards{ grid-template-columns: repeat(1, 1fr); }
   .brand__logo{ height: 44px; }
 }
+
+/* =========================
+   Ajuste logo EBSA
+========================= */
+
+.brand__logo {
+  height: 72px;
+  width: auto;
+}
+
+.topbar__inner {
+  justify-content: center;
+  padding: 20px 0;
+}
